@@ -423,6 +423,9 @@ footer {
   .list-link {
     position: relative;
     top: -3rem;
+    margin: 0 auto;
+        padding: 0;
+        max-width: 1200px;
     .card-link {
       padding: 10px 1rem;
       margin-bottom: 1rem;
