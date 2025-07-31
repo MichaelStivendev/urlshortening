@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./capture.jpg)
+![](./capture.png)
 
 
 
